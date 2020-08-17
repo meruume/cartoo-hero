@@ -36,6 +36,8 @@ p.caption{
 	font-size: 16px;
 	color:lightgrey;
 	font-style:italic;
+	margin-top: 8px;
+	margin-bottom: 16px;
 }
 
 ul{
